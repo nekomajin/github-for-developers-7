@@ -4,3 +4,4 @@
 - [x] germany
 - [x] spaghetti
 - [x] read books
+- [x] blue
